@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 
 
 This is the repo for the client side portion of the NSS fullstack curriculum Gamer Rater project.
+
